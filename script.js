@@ -6,11 +6,11 @@ const accuracyDisplay = document.getElementById('accuracy');
 const timerDisplay = document.getElementById('timer');
 
 const sampleTexts = [
-  'The quick brown fox jumps over the lazy dog.',
-  'JavaScript is a versatile programming language.',
-  'A journey of a thousand miles begins with a single step.',
-  'To be or not to be, that is the question.',
-  'Typing tests help improve typing speed and accuracy.',
+  'Failure is often misunderstood as the opposite of success, but it is actually a necessary part of the journey. Every mistake carries a lesson, teaching us what doesn’t work and pushing us to try new approaches. Great achievements are rarely made without some kind of setback. When we fail, we are given a chance to grow, reflect, and come back stronger. ',
+  'Endurance is the ability to keep going, even when circumstances are tough. Its not about speed or immediate results, but about staying in the race no matter what. Life tests our endurance with difficulties, whether in school, work, or relationships. Those who endure are the ones who refuse to quit when others do. Its easy to start something, but enduring through obstacles shows real strength. ',
+  'Patience is the quiet power of waiting without giving up. In a fast-paced world, patience is often overlooked, but it is critical to real success. Goals take time, growth takes time, and lasting change doesn’t happen overnight. Patience teaches us to trust the process and respect the time things require. It helps us stay calm when progress seems slow or invisible. Impatience often leads to frustration and poor decisions, while patience keeps us grounded',
+  'Hard work is the foundation of all meaningful achievement. Talent can open doors, but hard work is what keeps them open. It involves discipline, consistency, and the willingness to do what others avoid. Those who work hard understand that nothing worthwhile comes easy. Hard work doesn’t guarantee instant success, but it always leads to improvement.',
+  'Resilience is the strength to recover after being knocked down. It’s what allows people to face loss, stress, or failure and still keep going. Resilient individuals bend but don’t break; they adapt, learn, and grow stronger through adversity. It’s not about avoiding pain, but learning how to move through it. Resilience comes from a combination of hope, support, and inner strength.',
 ];
 
 let startTime;
